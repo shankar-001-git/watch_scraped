@@ -1,7 +1,3 @@
-Here’s a more natural, “real” version of your README—concise, clear, and still detailed enough for someone to use your project without feeling like it was auto-generated:
-
----
-
 # Flipkart Watches Scraper
 
 A Python project to scrape watch product data from Flipkart. It collects product URLs and then scrapes detailed info for each watch, storing everything in MongoDB.
